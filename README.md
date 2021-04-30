@@ -11,4 +11,5 @@ Covid - 19  Tracker tracks the cases across the country and world wide an applic
 
 
 
-![Capture](https://user-images.githubusercontent.com/65825065/116735940-d84a2780-aa0c-11eb-9b7b-a313f5955e72.PNG)
+![Capture](https://user-images.githubusercontent.com/65825065/116736127-15aeb500-aa0d-11eb-97d2-285f91682a02.PNG)
+
