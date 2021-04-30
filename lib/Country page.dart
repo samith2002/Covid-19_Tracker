@@ -73,6 +73,7 @@ class _CountryPageState extends State<CountryPage> {
                         Text('ACTIVE:'+countryData[index]['active'].toString(),style:TextStyle(color:Colors.blue,fontWeight:FontWeight.w500,fontFamily:"Patua"),),
                         Text('RECOVERED:'+countryData[index]['recovered'].toString(),style:TextStyle(color:Colors.green,fontWeight:FontWeight.w500,fontFamily:"Patua"),),
                         Text('DEATHS:'+countryData[index]['deaths'].toString(),style:TextStyle(color:Colors.black,fontWeight:FontWeight.w500,fontFamily:"Patua"),),
+                        Text('TODAY CASES:'+countryData[index]['todayCases'].toString(),style:TextStyle(color:Colors.red.shade900,fontWeight:FontWeight.w500,fontFamily:"Patua"),),
 
                       ],
                     ),
